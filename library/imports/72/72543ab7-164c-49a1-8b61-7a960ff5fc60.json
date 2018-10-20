@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "添加地址字体",
+    "texture": "4327671d-f58d-4417-9695-c62d9a17be31",
+    "atlas": "3f4f3023-2846-4362-a5fe-aa350ca93cd2",
+    "rect": [
+      1,
+      1537,
+      139,
+      33
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      141,
+      35
+    ]
+  }
+}

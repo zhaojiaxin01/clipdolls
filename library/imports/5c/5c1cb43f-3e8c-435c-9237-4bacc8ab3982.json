@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "first-brush",
+    "texture": "bf83923c-11bc-456b-b2a1-dd8ed3f00370",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      598,
+      1252
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      598,
+      1252
+    ]
+  }
+}

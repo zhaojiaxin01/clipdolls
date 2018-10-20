@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "转运珠0.22g",
+    "texture": "b9a37456-ad19-46e1-854a-d2d16c2cd69e",
+    "atlas": "3c053c62-b1b1-446f-91c5-caea8d17adb1",
+    "rect": [
+      1,
+      155,
+      66,
+      46
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      66,
+      46
+    ],
+    "rotated": 1
+  }
+}

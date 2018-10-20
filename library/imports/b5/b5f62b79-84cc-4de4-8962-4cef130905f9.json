@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "灰色活动",
+    "texture": "8f0d3e24-6103-430b-aa16-7dc1e6f0a13d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      272,
+      89
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      272,
+      89
+    ]
+  }
+}

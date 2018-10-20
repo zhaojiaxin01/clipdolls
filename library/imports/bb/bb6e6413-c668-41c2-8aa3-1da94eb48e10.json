@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "618元金币",
+    "texture": "1474e720-4e42-458d-9222-edf9f0129989",
+    "atlas": "65a7d820-df51-41e7-87d8-dec694bf6ecd",
+    "rect": [
+      1,
+      793,
+      124,
+      100
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      124,
+      100
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "活动按钮",
+    "texture": "e6098bd4-b217-43c0-9830-93f587ea7372",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      272,
+      89
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      272,
+      89
+    ]
+  }
+}

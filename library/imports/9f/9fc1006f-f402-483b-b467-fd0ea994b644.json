@@ -1,0 +1,44 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "first_blush.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "+": {
+      "__uuid__": "baa46812-3fd2-4158-9653-9bdac795b0c7"
+    },
+    "1000金币": {
+      "__uuid__": "7398bb39-9d6a-4bf5-9992-33a7f45726f4"
+    },
+    "10钻石": {
+      "__uuid__": "1a9efb93-1193-4c6b-8f1a-86895befbadc"
+    },
+    "变身棒": {
+      "__uuid__": "58c0b49d-9fc0-4383-9e4e-3915fa372183"
+    },
+    "变身棒_1": {
+      "__uuid__": "6addf3e1-a174-4e74-8e96-cf6af37a812e"
+    },
+    "大泡泡": {
+      "__uuid__": "1752588d-add1-4c99-bfe4-bebc4c845786"
+    },
+    "娃娃": {
+      "__uuid__": "2a5a26ef-85df-4e4d-9d0f-234946feb57f"
+    },
+    "按钮": {
+      "__uuid__": "e82f2070-6aff-4173-8feb-6e7935d09025"
+    },
+    "立即购买": {
+      "__uuid__": "f98ddb77-6256-4d17-ae2d-74e56ac14bc3"
+    },
+    "背景": {
+      "__uuid__": "f1ebc6ad-07b5-4ccd-9edb-2490658f0db3"
+    },
+    "钻石": {
+      "__uuid__": "bc0950d2-f677-4938-8db3-f1e99b33694b"
+    },
+    "首冲礼包": {
+      "__uuid__": "282780ff-53d0-4c1a-bd1e-36a13d7656e7"
+    }
+  }
+}

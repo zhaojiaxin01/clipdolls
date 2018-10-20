@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "底纹",
+    "texture": "69927257-691f-4e77-aed7-562884f8c344",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      125,
+      34
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      125,
+      34
+    ]
+  }
+}

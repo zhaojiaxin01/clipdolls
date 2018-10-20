@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "商品详细信息背景",
+    "texture": "4327671d-f58d-4417-9695-c62d9a17be31",
+    "atlas": "3f4f3023-2846-4362-a5fe-aa350ca93cd2",
+    "rect": [
+      894,
+      669,
+      528,
+      60
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      528,
+      60
+    ],
+    "rotated": 1,
+    "capInsets": [
+      10,
+      0,
+      14,
+      0
+    ]
+  }
+}

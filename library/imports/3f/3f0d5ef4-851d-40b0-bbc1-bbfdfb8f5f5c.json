@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "小金币",
+    "texture": "e027e46b-1b1b-48a7-8d8d-a850564f499f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      35,
+      42
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      35,
+      42
+    ]
+  }
+}

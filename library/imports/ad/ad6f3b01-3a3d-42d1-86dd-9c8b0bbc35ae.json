@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "通用牛逼场地(字体白色，描边颜色6b2a11)",
+    "texture": "14cf6bc3-9cec-485f-9a84-19b08a8c5c72",
+    "atlas": "5358d497-0fa1-4d31-9ec3-8e6d48b00747",
+    "rect": [
+      95,
+      129,
+      402,
+      75
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      402,
+      75
+    ],
+    "rotated": 1
+  }
+}

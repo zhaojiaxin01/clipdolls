@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "活动黄色底板",
+    "texture": "ef1d56a7-40e7-49b8-b369-010e90fb2734",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      213,
+      96
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      213,
+      96
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "底板",
+    "texture": "9fdb919b-ebde-4595-bdaf-3c0ba229b3c7",
+    "atlas": "d726bcfc-6318-4c55-a665-f036fa1dbcea",
+    "rect": [
+      1,
+      1,
+      963,
+      661
+    ],
+    "offset": [
+      0,
+      -1
+    ],
+    "originalSize": [
+      963,
+      663
+    ]
+  }
+}

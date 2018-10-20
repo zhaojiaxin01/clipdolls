@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "goldClip",
+    "texture": "aa9e0973-cb39-432c-87a6-33a539da1656",
+    "atlas": "",
+    "rect": [
+      3,
+      2,
+      1499,
+      93
+    ],
+    "offset": [
+      0.5,
+      0
+    ],
+    "originalSize": [
+      1504,
+      97
+    ]
+  }
+}

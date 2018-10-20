@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "silveryClip",
+    "texture": "4cead8ce-5bce-4a98-8753-91e411edd78e",
+    "atlas": "",
+    "rect": [
+      3,
+      2,
+      1499,
+      93
+    ],
+    "offset": [
+      0.5,
+      0
+    ],
+    "originalSize": [
+      1504,
+      97
+    ]
+  }
+}

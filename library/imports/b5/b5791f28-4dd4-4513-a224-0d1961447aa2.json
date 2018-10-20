@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "叉叉",
+    "texture": "8d297b88-ef4a-4448-ab21-2c5d3542ea65",
+    "atlas": "1a81ceb4-bdba-4e19-ae60-a7841432f392",
+    "rect": [
+      878,
+      423,
+      71,
+      71
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      71,
+      71
+    ]
+  }
+}

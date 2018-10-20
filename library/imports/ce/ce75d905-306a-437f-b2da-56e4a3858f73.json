@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "公告灰色",
+    "texture": "0e57500b-3b42-416d-a49a-f6709c1dff44",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      231,
+      70
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      231,
+      70
+    ]
+  }
+}

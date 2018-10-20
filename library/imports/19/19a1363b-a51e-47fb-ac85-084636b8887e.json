@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "公告按钮",
+    "texture": "56124cf8-5ea5-4486-8c4e-1c242e8b9d29",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      231,
+      70
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      231,
+      70
+    ]
+  }
+}

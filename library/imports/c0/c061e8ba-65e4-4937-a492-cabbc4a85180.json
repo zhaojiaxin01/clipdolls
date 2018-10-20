@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "大泡泡",
+    "texture": "bf83923c-11bc-456b-b2a1-dd8ed3f00370",
+    "atlas": "50d70c09-f647-4c03-a0ec-565dca9245f8",
+    "rect": [
+      89,
+      1058,
+      149,
+      149
+    ],
+    "offset": [
+      0,
+      1
+    ],
+    "originalSize": [
+      149,
+      151
+    ]
+  }
+}

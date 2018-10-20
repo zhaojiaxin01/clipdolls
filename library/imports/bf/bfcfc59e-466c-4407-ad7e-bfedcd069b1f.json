@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "yuleBg",
+    "texture": "7230f30c-c071-4453-b028-cbb77df0f0a8",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      374,
+      446
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      374,
+      446
+    ]
+  }
+}

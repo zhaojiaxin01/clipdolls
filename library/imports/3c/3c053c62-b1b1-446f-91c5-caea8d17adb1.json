@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "5mao.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "传家金条3g": {
+      "__uuid__": "cbc28c8e-b70e-40fb-a9f3-b54fd867d78d"
+    },
+    "小米充电宝": {
+      "__uuid__": "4a57692e-00cd-4e76-adf5-b95114188493"
+    },
+    "福字金条2g": {
+      "__uuid__": "ab868099-5130-49eb-8b00-da931ee2e19b"
+    },
+    "福字金条5g": {
+      "__uuid__": "2f0d6e7a-b060-4005-827e-00aa7d5b0134"
+    },
+    "转运珠0.22g": {
+      "__uuid__": "a9383cb8-b261-42ef-b0e1-10c49c700b41"
+    }
+  }
+}

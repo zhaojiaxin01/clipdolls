@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "first_blush",
+    "texture": "a9913d8d-7004-433a-9f55-c5f4d034ac1b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      901,
+      976
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      901,
+      976
+    ]
+  }
+}

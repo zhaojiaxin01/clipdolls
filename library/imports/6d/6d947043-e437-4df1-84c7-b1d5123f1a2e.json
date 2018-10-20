@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "确认UI",
+    "texture": "4327671d-f58d-4417-9695-c62d9a17be31",
+    "atlas": "3f4f3023-2846-4362-a5fe-aa350ca93cd2",
+    "rect": [
+      639,
+      1451,
+      177,
+      68
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      177,
+      68
+    ]
+  }
+}

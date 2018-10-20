@@ -1,0 +1,17 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "clipTrue.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "分享按钮": {
+      "__uuid__": "9aaaf197-9d77-4cc1-afce-b9a07354d178"
+    },
+    "外框": {
+      "__uuid__": "ebae3b1f-cf24-45d9-abb5-7f8e69855fae"
+    },
+    "确定按钮": {
+      "__uuid__": "16d79e53-7c84-4e2d-9441-ff33b3679133"
+    }
+  }
+}

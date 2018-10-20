@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "主体人物",
+    "texture": "ec9100f3-2409-442b-a786-deadeac4eadd",
+    "atlas": "0d6605bd-650c-45e6-a694-baa12f711590",
+    "rect": [
+      1283,
+      1,
+      333,
+      540
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      333,
+      540
+    ]
+  }
+}

@@ -1,0 +1,1 @@
+{"version":3,"sources":["test_socket.js"],"names":[],"mappings":";;;;AAAA;AACA;AACA","file":"test_socket.js","sourceRoot":"..\\..\\..\\..\\..\\assets\\Script\\test","sourcesContent":["// const websocket = require(\"socket\");\r\n// websocket.connect(\"ws://192.168.0.50:7081\");\r\n// websocket.send_msg(\"hi\");"]}

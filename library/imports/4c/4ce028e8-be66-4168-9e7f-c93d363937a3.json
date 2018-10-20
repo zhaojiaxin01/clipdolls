@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "金币栏",
+    "texture": "ee22dad4-76ce-4556-ba55-ff0a610f2d75",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      127,
+      46
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      127,
+      46
+    ]
+  }
+}

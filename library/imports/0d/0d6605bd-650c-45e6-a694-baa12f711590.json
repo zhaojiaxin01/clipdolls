@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "loading.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "主体人物": {
+      "__uuid__": "c94eea18-d64a-489f-a7a8-462e88a33a96"
+    },
+    "加载文字": {
+      "__uuid__": "ee15a29b-4ee3-4161-836d-7e1f422a1955"
+    },
+    "加载背景": {
+      "__uuid__": "65f21cde-59d8-45bd-a54e-881887bc060a"
+    },
+    "进度条外面的": {
+      "__uuid__": "23bb29b7-6e4c-4154-8e7a-eb3132c57b04"
+    },
+    "进度条里面的": {
+      "__uuid__": "1bfb588d-e3e1-4f55-8a2f-9232e1ea67cb"
+    }
+  }
+}

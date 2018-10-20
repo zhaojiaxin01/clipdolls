@@ -1,0 +1,17 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "ropeSkin.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "WoodClip ": {
+      "__uuid__": "11e85404-192a-4331-bceb-9d598059bc16"
+    },
+    "goldRope": {
+      "__uuid__": "1bce8e54-733a-49dc-b606-baef01d599e7"
+    },
+    "silveryClip": {
+      "__uuid__": "49ca45cc-80f0-4e6e-abfb-2147a4f73489"
+    }
+  }
+}

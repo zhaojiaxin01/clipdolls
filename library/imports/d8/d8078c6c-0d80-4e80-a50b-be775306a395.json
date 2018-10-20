@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "头像",
+    "texture": "c700a8e5-a7f2-4879-b0e9-52353b3a6f1a",
+    "atlas": "8efd3349-d64e-40e2-a01b-1f52e02c3852",
+    "rect": [
+      950,
+      622,
+      55,
+      59
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      55,
+      59
+    ],
+    "rotated": 1
+  }
+}

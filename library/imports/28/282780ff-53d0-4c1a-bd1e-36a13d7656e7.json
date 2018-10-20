@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "首冲礼包",
+    "texture": "a9913d8d-7004-433a-9f55-c5f4d034ac1b",
+    "atlas": "9fc1006f-f402-483b-b467-fd0ea994b644",
+    "rect": [
+      599,
+      512,
+      434,
+      123
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      434,
+      123
+    ],
+    "rotated": 1
+  }
+}

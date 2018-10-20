@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "prop.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "brand": {
+      "__uuid__": "f8b590aa-aa41-443a-a6d6-0f779827ed94"
+    },
+    "crown": {
+      "__uuid__": "d719f39a-c8d8-4453-b324-70f7e32dfe31"
+    },
+    "gold": {
+      "__uuid__": "f7409a72-8b99-4b00-b6fa-fc26d4550902"
+    },
+    "seniorCrown": {
+      "__uuid__": "bf850ce7-4223-4c4d-9812-9a5834081589"
+    },
+    "wallet": {
+      "__uuid__": "e7cd7bd7-28e2-47e0-bc8e-39d066ab452f"
+    }
+  }
+}

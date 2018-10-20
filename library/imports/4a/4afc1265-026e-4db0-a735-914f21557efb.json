@@ -1,0 +1,38 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "1yuan.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "50话费": {
+      "__uuid__": "1b533ec5-2cb8-4822-9783-2dc6d60027ec"
+    },
+    "PS4游戏机": {
+      "__uuid__": "6a9286a1-9125-4a69-8730-13ee7d748385"
+    },
+    "iPhone8": {
+      "__uuid__": "2b614fd3-a60d-45d0-99c9-ebd43478f391"
+    },
+    "urBeats耳机": {
+      "__uuid__": "b6c3f9b2-00b8-4ea7-aa65-78757ad3f586"
+    },
+    "京东购物卡50元": {
+      "__uuid__": "a37630f8-c002-4652-a3b2-f7e1dae04d5e"
+    },
+    "富士拍立得": {
+      "__uuid__": "c19cb496-eb68-4203-9814-6becddb2a097"
+    },
+    "祝福金条2g": {
+      "__uuid__": "75816338-9316-454a-aa55-9abd6031efbf"
+    },
+    "红米note5a": {
+      "__uuid__": "ea9b19d0-c6a3-4e89-8674-e080047cd170"
+    },
+    "艾美特取暖": {
+      "__uuid__": "150dcf13-2181-411c-a5a5-6d054db25a4b"
+    },
+    "阿玛尼男围巾": {
+      "__uuid__": "f2114cc6-e66b-4adb-bfde-c56076e20d62"
+    }
+  }
+}

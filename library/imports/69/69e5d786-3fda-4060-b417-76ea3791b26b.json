@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "dollsHall",
+    "texture": "c700a8e5-a7f2-4879-b0e9-52353b3a6f1a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1012,
+      1870
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1012,
+      1870
+    ]
+  }
+}

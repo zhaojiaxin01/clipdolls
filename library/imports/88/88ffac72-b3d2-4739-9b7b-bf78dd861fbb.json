@@ -1,0 +1,26 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "shape.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "qq": {
+      "__uuid__": "b282f6c1-d1ec-4774-8335-bc41201fa518"
+    },
+    "qq空进啊": {
+      "__uuid__": "e0d00b74-f2bc-4d89-8fa1-a4409467b217"
+    },
+    "分享": {
+      "__uuid__": "cc8fbcf9-f0f8-4d2f-9802-eeb0c70923ba"
+    },
+    "微信": {
+      "__uuid__": "b5963c59-85a6-46e1-8e30-b3453fcf6b7f"
+    },
+    "朋友圈": {
+      "__uuid__": "5d9931a9-74e2-4a52-96b3-e709344501d4"
+    },
+    "请选择，你想要分享的地方.": {
+      "__uuid__": "78f2f7b8-26a6-44b3-a121-276641e12912"
+    }
+  }
+}

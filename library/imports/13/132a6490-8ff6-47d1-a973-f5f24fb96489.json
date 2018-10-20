@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "clipTrue",
+    "texture": "8496370c-8d1d-4800-bd9b-7de7e4272a14",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      444,
+      670
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      444,
+      670
+    ]
+  }
+}

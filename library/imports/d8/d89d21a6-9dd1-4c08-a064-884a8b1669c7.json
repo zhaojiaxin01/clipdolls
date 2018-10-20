@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tipLog",
+    "texture": "8cadad64-9b8f-4770-bc78-15764bc05053",
+    "atlas": "",
+    "rect": [
+      4,
+      4,
+      481,
+      270
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      489,
+      278
+    ]
+  }
+}

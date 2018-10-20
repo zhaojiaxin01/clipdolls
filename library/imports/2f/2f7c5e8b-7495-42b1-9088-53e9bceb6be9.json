@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "选中活动或者公告的显示按钮",
+    "texture": "827dba73-30d0-40e8-a628-3345c9c66d5d",
+    "atlas": "",
+    "rect": [
+      4,
+      4,
+      227,
+      96
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      235,
+      104
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "first-brush.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "+": {
+      "__uuid__": "b77d431c-348d-47cb-a13f-cbf4d763aed5"
+    },
+    "1000金币": {
+      "__uuid__": "b44d9616-533d-4b2a-9f7d-43a3208d9b42"
+    },
+    "10钻石": {
+      "__uuid__": "dcb76cd3-a3e9-4f75-bea5-55395c98cb18"
+    },
+    "bg": {
+      "__uuid__": "5751172a-6ba4-443f-a68e-7b3c5022f239"
+    },
+    "变身棒": {
+      "__uuid__": "aa8dfb5f-af0b-4127-b8c1-e40b8ef0ea5b"
+    },
+    "变身棒_1": {
+      "__uuid__": "dd9b5112-d708-489a-b808-120b8a5b0b6f"
+    },
+    "大泡泡": {
+      "__uuid__": "c061e8ba-65e4-4937-a492-cabbc4a85180"
+    },
+    "立即购买": {
+      "__uuid__": "f45a1f1f-f453-4fdf-bac5-4a8e251319d7"
+    },
+    "金币": {
+      "__uuid__": "c079e700-c7d8-495a-bcaf-1100e8b0701f"
+    },
+    "钻石": {
+      "__uuid__": "53941767-bc17-4ba9-99a4-f1bd9cda8930"
+    }
+  }
+}

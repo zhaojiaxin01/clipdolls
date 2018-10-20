@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "侧边栏道具未选中",
+    "texture": "9fdb919b-ebde-4595-bdaf-3c0ba229b3c7",
+    "atlas": "d726bcfc-6318-4c55-a665-f036fa1dbcea",
+    "rect": [
+      371,
+      664,
+      130,
+      94
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      130,
+      94
+    ],
+    "rotated": 1
+  }
+}

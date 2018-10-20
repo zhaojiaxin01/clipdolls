@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "woodClip",
+    "texture": "2f27c151-178e-40d3-95ae-1f727a57f279",
+    "atlas": "",
+    "rect": [
+      3,
+      2,
+      1505,
+      93
+    ],
+    "offset": [
+      0.5,
+      0
+    ],
+    "originalSize": [
+      1510,
+      97
+    ]
+  }
+}

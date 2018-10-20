@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "小米充电宝",
+    "texture": "b9a37456-ad19-46e1-854a-d2d16c2cd69e",
+    "atlas": "3c053c62-b1b1-446f-91c5-caea8d17adb1",
+    "rect": [
+      1,
+      28,
+      38,
+      44
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      38,
+      44
+    ],
+    "rotated": 1
+  }
+}

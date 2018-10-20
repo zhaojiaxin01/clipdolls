@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "京东购物卡50元",
+    "texture": "07a467c6-4c8f-443c-8243-43b2b46b777c",
+    "atlas": "4afc1265-026e-4db0-a735-914f21557efb",
+    "rect": [
+      59,
+      32,
+      55,
+      34
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      55,
+      34
+    ]
+  }
+}

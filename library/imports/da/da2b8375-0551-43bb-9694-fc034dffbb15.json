@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "背景面板",
+    "texture": "e2e580de-bbc3-48a8-b46f-714f5ed7e7d8",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1046,
+      702
+    ],
+    "offset": [
+      0,
+      1.5
+    ],
+    "originalSize": [
+      1046,
+      705
+    ]
+  }
+}

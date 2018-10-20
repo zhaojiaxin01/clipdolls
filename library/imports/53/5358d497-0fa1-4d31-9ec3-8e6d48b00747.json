@@ -1,0 +1,32 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "ui.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "BaseTop": {
+      "__uuid__": "6dd87789-037c-44ed-a9fb-3a0292b82c2f"
+    },
+    "GoldUI": {
+      "__uuid__": "b4c9adcd-3686-4851-a43d-4e5c929dc300"
+    },
+    "alert": {
+      "__uuid__": "ade266ff-5583-434a-9c5d-3c6e89591036"
+    },
+    "energy": {
+      "__uuid__": "1d665e3b-e7c5-408a-a0fc-14a6b130bc1f"
+    },
+    "energy2": {
+      "__uuid__": "5e112801-72dd-45ef-b443-d7a0b3ff8259"
+    },
+    "iphoneX": {
+      "__uuid__": "617bdd5b-d597-4b07-aa26-726282b8a945"
+    },
+    "图层 650": {
+      "__uuid__": "60b2d14b-e1f3-4010-99e5-49e907d79c7e"
+    },
+    "通用牛逼场地(字体白色，描边颜色6b2a11)": {
+      "__uuid__": "ad6f3b01-3a3d-42d1-86dd-9c8b0bbc35ae"
+    }
+  }
+}
